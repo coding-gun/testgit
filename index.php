@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title></title>
+	<title>this is my first git</title>
 </head>
 <body>
 	<form method="post" action="">
